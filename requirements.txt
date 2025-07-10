@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+pypdf
+tiktoken
+python-docx
+python-dotenv
+fastapi
+uvicorn
